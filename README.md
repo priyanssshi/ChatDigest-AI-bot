@@ -273,6 +273,32 @@ For major changes, open an issue first to discuss your proposed feature.
 
 Add a `LICENSE` file and specify your chosen license before publishing. If no license is provided, the repository is not automatically open source for unrestricted reuse.
 
+## 🙌 Credits & Acknowledgements
+
+Built with ❤️ to make everyday communication smarter and more productive.
+
+Special thanks to the amazing technologies and platforms that power ChatDigest AI:
+
+- 🤖 **Google Gemini** — AI-powered text, vision, and audio processing.
+- 💬 **Meta WhatsApp Cloud API** — WhatsApp messaging integration.
+- 🟢 **Node.js & Express.js** — Backend development and API handling.
+- ☁️ **Cloudinary** — Media upload and management.
+- ▲ **Vercel** — Application deployment and hosting.
+- 🛠️ **Open-Source Community** — For the tools, libraries, and inspiration that make innovation possible.
+
+### 💡 Project Inspiration
+
+Inspired by the everyday challenge of finding important information in endless group chats, ChatDigest AI aims to turn information overload into actionable knowledge.
+
+### 👨‍💻 Created By :
+
+**ChatDigest AI bot Team**
+Team name: THE DISTRUPTOR
+Team members: Priyanshi, Varun, Manvir Singh, Jatin Anand.
+*Built with innovation, powered by AI, and designed to save time.*
+
+---
+
 ## ⭐ Support the Project
 
 If you find ChatDigest AI useful, consider giving the repository a ⭐ on GitHub!
